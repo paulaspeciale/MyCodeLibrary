@@ -1,0 +1,17 @@
+JavaScript
+- lenguaje interpretado
+- case sensitive
+    -reglas para el nombrado de variables : empezar con $ o _ , los demas simbolos o numeros no 
+- debilmente tipado
+    -tipos de datos : string, number, boolean, object, function, null, undefined, symbol
+- website -> interactivos  
+
+Incluir JS en un website
+    - etiqueta script - al final del body
+    - etiqueta script en el head con el atributo defer
+    - etiqueta script con un src al archivo JS externo
+
+
+ let VS const vs var
+ var -> alcance global
+ let -> alcance de bloque   
